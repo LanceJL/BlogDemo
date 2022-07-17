@@ -47,8 +47,8 @@ namespace StockApp
                     return 250;
                 case "AUD":
                     return 155;
-  //              case "FOR":
-  //                  return 275;
+                case "FOR":
+                    return 275;
                 case "TUX":
                     return 75;
                 default:
