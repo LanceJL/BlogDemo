@@ -33,8 +33,8 @@ namespace StockApp
         {
             switch (stockCode)
             {
-                case "MSFT":
-                    return 287;
+                //case "MSFT":
+                //    return 287;
                 case "SBUX":
                     return 93;
                 case "AMZN":
